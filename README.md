@@ -1,2 +1,2 @@
-# Dicionario
+# Dicionário
 Trabalho desenvolvimento de sistemas
